@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6744e2f113c490065857E096e77805BAe5d65b4b",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6744e2f113c490065857E096e77805BAe5d65b4b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Fantasia Pantsu",
+  "SYMBOL": "FPu",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 10.004,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fantasiapantsu",
+  "SHOW_BACKGROUND": true
+}
